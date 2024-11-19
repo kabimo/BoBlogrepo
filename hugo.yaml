@@ -1,0 +1,103 @@
+baseURL: "https://readwithmoe.netlify.app/"  # Base URL of the site
+languageCode: "en-us"
+title: "Moe"
+pagination:
+  pagerSize: 5  # Use pagination.pagerSize instead of paginate to avoid the deprecation warning
+theme: "PaperMod"
+
+modules:
+  - path: github.com/adityatelange/hugo-PaperMod
+  
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+
+
+minify:  # Minification settings
+  disableXML: true
+  minifyOutput: true
+
+
+
+params:
+  env: "production"
+  title: "IT"
+  description: "blog, IT, hardware, software, learn, lernen, tech journey"
+  keywords: ["Blog", "Portfolio", "Mohammed kabi", "Kabi", "system integration"]
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: "auto"
+  disableThemeToggle: false
+  enableScrollProgress: true
+  #ShowReadingTime: true
+  ShowShareButtons: true
+  enableDarkMode: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  #ShowWordCount: true
+  #ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  
+
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  popularPosts: true
+  relatedPosts: true
+
+analytics:
+  google:
+    SiteVerificationTag: "XYZabc"
+  bing:
+    SiteVerificationTag: "XYZabc"
+  yandex:
+    SiteVerificationTag: "XYZabc"
+
+menu:
+  main:
+    - identifier: categories
+      name: "Categories"
+      url: "/categories/"
+      weight: 10
+    - identifier: tags
+      name: "Tags"
+      url: "/tags/"
+      weight: 20
+    - identifier: archives
+      name: "Archives"
+      url: "/archives/"
+      weight: 30
+    - identifier: about
+      name: "About"
+      url: "/about/"
+      weight: 40
+
+pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+  asciidocExt:
+    attributes: {}
+    backend: "html5"
+    extensions: []
+    failureLevel: "fatal"
+    noHeaderOrFooter: true
+    preserveTOC: false
+    safeMode: "unsafe"
+    sectionNumbers: false
+    trace: false
+    verbose: false
+    workingFolderCurrent: false
