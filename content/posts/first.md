@@ -14,12 +14,12 @@ ShowReadingTime: true
 ShowWordCount: true
 ShowPostNavLinks: true
 cover:
-    image: img/dddd.png # Path or URL to the cover image
-    alt: "hardware pic" # Short alt text for accessibility
-    caption: "hardware journey" # Caption under the image
+    image: img/Homepage.jpg # Path or URL to the cover image
+    alt: "Image" # Short alt text for accessibility
+    caption: "Image generated via Leonardo.ai" # Caption under the image
 editPost:
     URL: "https://github.com/kabimo/BP/tree/master/content/posts"
-    Text: "Edit this post" # Text for the edit link
+    Text: "Edit this post"
     appendFilePath: true
 ---
 ### My Journey in Tech: From Aspirations to Realizations  

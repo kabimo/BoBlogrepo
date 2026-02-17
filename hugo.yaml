@@ -1,6 +1,6 @@
 baseURL: "https://kabimo.com/"  # Base URL of the site
 languageCode: "en-us"
-title: "Moe"
+title: "Kabimo"
 pagination:
   pagerSize: 5  # Use pagination.pagerSize instead of paginate to avoid the deprecation warning
 theme: "PaperMod"
