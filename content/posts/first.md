@@ -4,7 +4,7 @@ date: 2020-09-15T11:30:03+00:00
 weight: 1
 tags: ["Hardware","programming","code","csharp"]
 categories: ["tech","Personal"]
-author: "Me"
+author: "Kabimo"
 showToc: true
 draft: false
 description: "An introduction to tech journey."
@@ -21,72 +21,61 @@ editPost:
     URL: "https://github.com/kabimo/BP/tree/master/content/posts"
     Text: "Edit this post"
     appendFilePath: true
----
-### My Journey in Tech: From Aspirations to Realizations  
-
-Technology is a fascinating realm, offering endless opportunities for discovery and innovation. My journey in tech has been a mix of curiosity, challenges, growth, and the pursuit of mastering the art of system integration. Here, I’ll share my story—how I started, the lessons I learned, and the milestones I reached along the way.
 
 ---
 
-### Beginnings: A Spark of Curiosity  
+## Systems & Integration
 
-Like many tech enthusiasts, my journey began with curiosity. I was drawn to the idea of understanding how systems work behind the scenes, how networks connect us, and how automation can simplify our lives. But it wasn’t just about fascination—I wanted to be part of the process, to create, configure, and optimize systems that could make an impact.
+My approach to technology is built on **curiosity and patience.** What started with a "How does this work?" phase has developed into a professional focus on **System Integration** and building infrastructure that actually lasts.
 
-Taking the first steps meant diving into Linux, exploring automation, and tinkering with hardware. Each challenge I faced—setting up a server, fixing a network issue, or configuring a Raspberry Pi—fueled my desire to dig deeper into this vast field.
-
----
-
-### The Decision: Retraining as an IT Specialist  
-
-At some point, I realized I wanted to turn this passion into a profession. I took the leap and began retraining as an **IT Specialist for System Integration (Fachinformatiker für Systemintegration - FISI)**. It wasn’t just a career change—it was a transformation of how I viewed technology. I transitioned from being a casual learner to someone deeply invested in understanding the nuances of systems and infrastructure.  
-
-This training opened doors to structured learning, including:  
-- Configuring networks with IPv6.  
-- Mastering the OSI model.  
-- Exploring databases and SQL.  
-
-Each topic provided a foundation for the practical skills I’d need in real-world scenarios.
+I don’t believe in "quick fixes" that break a week later. I believe in the quiet satisfaction of a well-planned system that runs exactly as intended.
 
 ---
 
-### Hands-On Learning: Turning Knowledge into Projects  
+### From Frontend to Systems
 
-One of the most rewarding aspects of my journey has been the opportunity to work on projects. From setting up a secure, automated backup system with SSH to developing a home data logger using a Raspberry Pi, every project has been a lesson in creativity and perseverance.  
+I started with the absolute basics of **frontend development**. It gave me a great perspective on the user side of tech, but I quickly realized my real interest was in the "engine" powering the interface. I wanted to understand the logic, the servers, and the networks sitting underneath.
 
-A standout experience was diving into IoT with the **ESP-WROOM-32**. Designing systems to measure analog values, control devices, and extend Wi-Fi coverage showcased how software, hardware, and networks come together to solve real-world problems. Each new tool—whether it was an OLED display or a BME280 sensor—added a layer to my understanding of what’s possible.
+My first real training ground was a **Raspberry Pi Model B rev 2.0**. It wasn't about complex enterprise racks yet; it was about the fundamentals.
 
----
+Managing home servers and troubleshooting Linux distributions taught me the most important skill I have: **methodical problem solving.** I learned to isolate variables, stay patient, and ask the right technical questions when things go south.
 
-### Embracing Challenges  
+### Architecture & Maintenance
 
-Not everything came easy. Learning to navigate **Emacs**, configuring Hugo for my blog, or resolving GitHub errors taught me patience and persistence. Challenges became stepping stones, pushing me to think critically and seek out solutions.  
+As I moved into my professional training as an **IT Specialist for System Integration**, my mindset shifted from "fixing" to **architecting**. If a system is designed well from the start, maintenance becomes a breeze rather than a headache.
 
-For example, while deploying my Hugo web app, I encountered issues that forced me to understand the intricacies of static site generators and CI/CD pipelines. These experiences not only sharpened my technical skills but also cultivated a problem-solving mindset that is invaluable in tech.
+I prioritize a **"plan twice, deploy once"** workflow. A solid blueprint saves hours of reactive debugging later. My core technical interests include:
 
----
+* **Networking:** Mastering the OSI model, IPv4, and IPv6 to ensure data moves efficiently.
+* **Data Integrity:** Using SQL to manage databases that are clean and performant.
+* **Automation:** Following the rule that if a task is repetitive, it should be scripted to save time and reduce human error.
 
-### What I’ve Learned Along the Way  
+### Second Brain
 
-1. **Adaptability is Key:** Technology is ever-evolving. Keeping an open mind and embracing continuous learning are essential to staying relevant.  
+To stay organized in a fast-paced field, I rely on **Logseq**. I document my entire learning journey and technical workflows using **Markdown**.
 
-2. **Start with the Basics:** Mastering fundamental concepts, like the OSI model or SQL, lays a strong foundation for tackling advanced topics.  
+The reason I stick to Markdown is simple: **independence.** Unlike proprietary formats, Markdown is plain text. It is future-proof; if the software I use today disappears, my notes remain readable by any basic text editor. It is lightweight, allows for fast version-control via Git, and keeps the focus entirely on the information rather than the formatting.
 
-3. **Collaborate and Share:** Engaging with communities, whether through forums or GitHub, has been instrumental in broadening my perspective and learning from others.  
+My knowledge base is version-controlled and synced across my workspaces. This means if I solve a complex problem once, the solution is archived and ready for me whenever I need it again. It’s about building a reliable, searchable library of my own experiences.
 
-4. **Embrace Failure:** Mistakes are part of the process. Each error has been a stepping stone toward a better understanding.  
+### Infrastructure as Code (IaC)
 
-5. **Focus on Real-World Impact:** It’s not just about writing code or configuring systems—it’s about creating solutions that add value.  
+The real "level up" in my work was adopting **(IaC)**. By defining environments through code, I make them repeatable, documented, and professional. It removes the guesswork and ensures that the infrastructure is as clean as the code that runs it.
 
----
-
-### The Road Ahead  
-
-My journey is far from over. As I continue to explore system integration, IoT, and automation, I’m excited to build on my knowledge and take on more complex projects. The tech landscape is vast, and there’s so much more to discover—whether it’s diving deeper into cybersecurity, mastering cloud technologies, or innovating with AI.  
+Beyond efficiency, IaC is the backbone of reliable **Disaster Recovery**. In the modern landscape, I can’t imagine a medium-to-large-scale client running their infrastructure any other way. If you aren't running your infra as code, you don't truly have a recovery plan you can trust. It turns a catastrophic server failure into a "re-run script" scenario.
 
 ---
 
-### Closing Thoughts  
+### Philosophy
 
-Technology isn’t just about systems and code—it’s about possibilities. My journey in tech has been one of growth, passion, and a relentless drive to learn. For anyone starting their own path, my advice is simple: stay curious, embrace challenges, and never stop building.  
+**To teach is to master.** I value sharing knowledge. I’ve found that breaking down a complex system to explain it to someone else is the best way to find the gaps in my own understanding.
+
+* **Foundations First:** Simple code and clean infrastructure are easier to maintain and more secure.
+* **Stay Adaptable:** In technology, being willing to learn is just as important as what you already know.
+* **If it's not documented, it's not finished:** I aim for every project to be clear enough for the next person to understand.
+
+### Looking Ahead
+
+I’m currently focused on scaling my skills in **automation and IaC**. My goal is to keep building and maintaining infrastructure that is smart, secure, and reliable.
 
 The journey is as rewarding as the destination, and I’m eager to see where this path leads next.
