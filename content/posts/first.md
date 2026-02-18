@@ -44,7 +44,9 @@ Managing home servers and troubleshooting Linux distributions taught me the most
 
 As I moved into my professional training as an **IT Specialist for System Integration**, my mindset shifted from "fixing" to **architecting**. If a system is designed well from the start, maintenance becomes a breeze rather than a headache.
 
-I prioritize a **"plan twice, deploy once"** workflow. A solid blueprint saves hours of reactive debugging later. My core technical interests include:
+I prioritize a **"plan twice, deploy once"** workflow. A solid blueprint saves hours of reactive debugging later.
+
+My core technical interests include:
 
 * **Networking:** Mastering the OSI model, IPv4, and IPv6 to ensure data moves efficiently.
 * **Data Integrity:** Using SQL to manage databases that are clean and performant.
@@ -68,7 +70,8 @@ Beyond efficiency, IaC is the backbone of reliable **Disaster Recovery**. In the
 
 ### Philosophy
 
-**To teach is to master.** I value sharing knowledge. I’ve found that breaking down a complex system to explain it to someone else is the best way to find the gaps in my own understanding.
+**To teach is to truly understand.** I value sharing knowledge. 
+I’ve found that breaking down a complex system to explain it to someone else is the best way to find the gaps in my own understanding.
 
 * **Foundations First:** Simple code and clean infrastructure are easier to maintain and more secure.
 * **Stay Adaptable:** In technology, being willing to learn is just as important as what you already know.
@@ -78,4 +81,4 @@ Beyond efficiency, IaC is the backbone of reliable **Disaster Recovery**. In the
 
 I’m currently focused on scaling my skills in **automation and IaC**. My goal is to keep building and maintaining infrastructure that is smart, secure, and reliable.
 
-The journey is as rewarding as the destination, and I’m eager to see where this path leads next.
+The journey is as rewarding as the destination
