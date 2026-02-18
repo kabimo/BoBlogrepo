@@ -81,4 +81,4 @@ I’ve found that breaking down a complex system to explain it to someone else i
 
 I’m currently focused on scaling my skills in **automation and IaC**. My goal is to keep building and maintaining infrastructure that is smart, secure, and reliable.
 
-The journey is as rewarding as the destination
+The journey is as rewarding as the destination.🌱
