@@ -7,7 +7,7 @@ categories: ["tech","Personal"]
 author: "Kabimo"
 showToc: true
 draft: false
-description: "An introduction to tech journey."
+description: "insight of my jouney in tech"
 comments: true
 disableShare: false
 ShowReadingTime: true
