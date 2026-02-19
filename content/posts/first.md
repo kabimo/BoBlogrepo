@@ -24,7 +24,6 @@ editPost:
 
 ---
 
-## Systems & Integration
 
 My approach to technology is built on **curiosity and patience.** What started with a "How does this work?" phase has developed into a professional focus on **System Integration** and building infrastructure that actually lasts.
 
@@ -48,7 +47,7 @@ I prioritize a **"plan twice, deploy once"** workflow. A solid blueprint saves h
 
 My core technical interests include:
 
-* **Networking:** Mastering the OSI model, IPv4, and IPv6 to ensure data moves efficiently.
+* **Networking:** OSI model, IPv4, and IPv6 to ensure data moves efficiently.
 * **Data Integrity:** Using SQL to manage databases that are clean and performant.
 * **Automation:** Following the rule that if a task is repetitive, it should be scripted to save time and reduce human error.
 
@@ -80,5 +79,3 @@ I’ve found that breaking down a complex system to explain it to someone else i
 ### Looking Ahead
 
 I’m currently focused on scaling my skills in **automation and IaC**. My goal is to keep building and maintaining infrastructure that is smart, secure, and reliable.
-
-The journey is as rewarding as the destination.🌱
